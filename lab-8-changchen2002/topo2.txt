@@ -1,0 +1,10 @@
+wake_up eat_breakfast
+eat_breakfast exercise
+exercise shower
+shower get_dressed
+get_dressed go_to_work
+go_to_work have_meeting
+have_meeting lunch
+lunch work_on_project
+work_on_project go_home
+go_home relax
