@@ -104,13 +104,9 @@ void printGraph(int* g){
 // The in-degree is the number of incoming edges to the node.
 
 int nodeInDegree(int* g, int node){
-    int count = 0;
-    for (int i = 0; i < ROWS; i++){
-        if (g[i * COLUMNS + node] == 1){
-            count++;
-        }
-    }
-    return count;
+
+    // TODO 
+    
 }
 
 
@@ -119,13 +115,9 @@ int nodeInDegree(int* g, int node){
 // The out-degree is the number of outgoing edges from the node.
 
 int nodeOutDegree(int* g, int node){
-    int count = 0;
-    for (int j = 0; j < COLUMNS; j++){
-        if (g[node * COLUMNS + j] == 1){
-            count++;
-        }
-    }
-    return count;
+
+    // TODO
+    
 }
 
 
@@ -135,13 +127,14 @@ int nodeOutDegree(int* g, int node){
 // Note: This only checks for direct connections (edges), not paths.
 
 int isConnected(int* g, int node1, int node2){
-    return g[node1 * COLUMNS + node2];
+
+    // TODO
 }
 
 
 int main(){
  
-    int* g_testgraph = (int*)malloc(ROWS * COLUMNS * sizeof(int));
+    int g_testgraph[ROWS][COLUMNS];
     
     // Generate and print graph
     
