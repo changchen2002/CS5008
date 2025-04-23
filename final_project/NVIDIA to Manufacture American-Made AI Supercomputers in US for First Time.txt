@@ -1,0 +1,16 @@
+NVIDIA to Manufacture American-Made AI Supercomputers in US for First Time
+NVIDIA is working with its manufacturing partners to design and build factories that, for the first time, will produce NVIDIA AI supercomputers entirely in the U.S.
+
+Together with leading manufacturing partners, the company has commissioned more than a million square feet of manufacturing space to build and test NVIDIA Blackwell chips in Arizona and AI supercomputers in Texas.
+
+NVIDIA Blackwell chips have started production at TSMC’s chip plants in Phoenix, Arizona. NVIDIA is building supercomputer manufacturing plants in Texas, with Foxconn in Houston and with Wistron in Dallas. Mass production at both plants is expected to ramp up in the next 12-15 months.
+
+The AI chip and supercomputer supply chain is complex and demands the most advanced manufacturing, packaging, assembly and test technologies. NVIDIA is partnering with Amkor and SPIL for packaging and testing operations in Arizona.
+
+Within the next four years, NVIDIA plans to produce up to half a trillion dollars of AI infrastructure in the United States through partnerships with TSMC, Foxconn, Wistron, Amkor and SPIL. These world-leading companies are deepening their partnership with NVIDIA, growing their businesses while expanding their global footprint and hardening supply chain resilience.
+
+NVIDIA AI supercomputers are the engines of a new type of data center created for the sole purpose of processing artificial intelligence — AI factories that are the infrastructure powering a new AI industry. Tens of “gigawatt AI factories” are expected to be built in the coming years. Manufacturing NVIDIA AI chips and supercomputers for American AI factories is expected to create hundreds of thousands of jobs and drive trillions of dollars in economic security over the coming decades.
+
+“The engines of the world’s AI infrastructure are being built in the United States for the first time,” said Jensen Huang, founder and CEO of NVIDIA. “Adding American manufacturing helps us better meet the incredible and growing demand for AI chips and supercomputers, strengthens our supply chain and boosts our resiliency.”
+
+The company will utilize its advanced AI, robotics and digital twin technologies to design and operate the facilities, including NVIDIA Omniverse to create digital twins of factories and NVIDIA Isaac GR00T to build robots to automate manufacturing.

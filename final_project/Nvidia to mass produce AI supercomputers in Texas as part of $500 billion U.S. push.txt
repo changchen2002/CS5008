@@ -1,0 +1,18 @@
+Nvidia, the chipmaker that powers much of today’s artificial intelligence boom, on Monday announced a push to produce NVIDIA AI supercomputers entirely in the U.S. for the first time.
+
+The company said it plans to produce up to $500 billion of AI infrastructure in the U.S. via its manufacturing partnerships over the next four years.
+
+“Adding American manufacturing helps us better meet the incredible and growing demand for AI chips and supercomputers, strengthens our supply chain and boosts our resiliency,” CEO Jensen Huang said.
+
+The news comes after President Donald Trump, in a push to take on trade deficits and pressure companies to on-shore more manufacturing to the U.S., imposed high “reciprocal” tariffs on a long list of countries. Trump placed a 32% tariff on products from Taiwan, where Nvidia largely manufactures its graphics processing units, or GPUs, and 145% tariffs on products from China, a move that threatened to take a toll on tech giants like Apple, which makes iPhones and most of its other products in China.
+
+But things changed quickly: On Friday evening, Trump exempted chips, as well as smartphones, computers, and other tech devices and components, from the tariffs. On Sunday, he reportedly said he would announce tariffs on imported semiconductors within the week.Nvidia wrote in a blog post that it has commissioned more than 1 million square feet of manufacturing space. Its Blackwell AI chips have started production in Phoenix at Taiwan Semiconductor
+ plants. In Arizona, Nvidia will also partner with Amkor and Siliconware Precision Industries, which provide chip packaging and testing services.
+
+The company designs its GPUs, but outsources its chip production to contract manufacturers like TSMC.
+
+Nvidia is also building manufacturing plants for its supercomputers in Texas, partnering with Foxconn in Houston and with Wistron in Dallas, the company wrote. It expects to reach mass production at both facilities within 12 to 15 months.
+
+To help design and operate the manufacturing plants, Nvidia will use its own technology to create “digital twins” of the factories and build robots for specialized automation.
+
+The White House put out a blog post on Monday calling Nvidia’s announcement the “Trump effect in action.” When asked if there was a relationship between the announcement and Trump’s tariffs, Nvidia declined to comment.
